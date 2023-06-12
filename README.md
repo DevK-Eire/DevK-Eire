@@ -12,8 +12,7 @@ I'm an full-stack developer. Finished 100 days of Code. Looking for new projects
 
  [![](https://img.shields.io/badge/LinkedIn-1DA1F2?logo=linkedin&logoColor=blue&labelColor=white&style=for-the-badge)](https://www.linkedin.com/in/killian-kavanagh/) [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge)](https://twitter.com/DevKEIRE)
  
- #
-
+ 
 ---
 
 ### 🧰 Languages and Tools
