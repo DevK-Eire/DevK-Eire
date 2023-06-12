@@ -11,6 +11,8 @@ I'm an full-stack developer. Finished 100 days of Code. Looking for new projects
 ## Social Media
 
  [![](https://img.shields.io/badge/LinkedIn-1DA1F2?logo=linkedin&logoColor=blue&labelColor=white&style=for-the-badge)](https://www.linkedin.com/in/killian-kavanagh/) [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge)](https://twitter.com/DevKEIRE)
+ 
+ #
 
 ---
 
@@ -26,6 +28,8 @@ I'm an full-stack developer. Finished 100 days of Code. Looking for new projects
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+#
 
 ---
 
